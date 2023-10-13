@@ -1,5 +1,7 @@
 # Module4Challenge
 
+Grade: 92/100
+
 Background
 
 You have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
